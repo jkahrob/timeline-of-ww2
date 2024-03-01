@@ -1,4 +1,4 @@
-# This is my simple list view Frontend page displaying the historical events of WW2 in a chronological order.
+# This is my simple list view Frontend page displaying the historical events of World War 2 in a chronological order, grouped by years.
 
 The working GitHub page for the application is at 
 [https://jkahrob.github.io/timeline-of-ww2/](https://jkahrob.github.io/timeline-of-ww2/)
