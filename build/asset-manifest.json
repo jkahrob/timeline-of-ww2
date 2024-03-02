@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/timeline-of-ww2/static/css/main.a8629cd3.css",
-    "main.js": "/timeline-of-ww2/static/js/main.990a469c.js",
+    "main.css": "/timeline-of-ww2/static/css/main.c3b15f43.css",
+    "main.js": "/timeline-of-ww2/static/js/main.7b313536.js",
     "static/js/453.d7378913.chunk.js": "/timeline-of-ww2/static/js/453.d7378913.chunk.js",
     "index.html": "/timeline-of-ww2/index.html",
-    "main.a8629cd3.css.map": "/timeline-of-ww2/static/css/main.a8629cd3.css.map",
-    "main.990a469c.js.map": "/timeline-of-ww2/static/js/main.990a469c.js.map",
+    "main.c3b15f43.css.map": "/timeline-of-ww2/static/css/main.c3b15f43.css.map",
+    "main.7b313536.js.map": "/timeline-of-ww2/static/js/main.7b313536.js.map",
     "453.d7378913.chunk.js.map": "/timeline-of-ww2/static/js/453.d7378913.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8629cd3.css",
-    "static/js/main.990a469c.js"
+    "static/css/main.c3b15f43.css",
+    "static/js/main.7b313536.js"
   ]
 }
